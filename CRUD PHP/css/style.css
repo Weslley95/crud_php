@@ -1,0 +1,57 @@
+body{
+  background-color: darkorchid;
+}
+
+.navbar{
+  background-color:rgba(0, 0, 0, 0.616);
+}
+
+.formulario {
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-top: 5%;
+}
+
+.informativo {
+  text-align: center;
+  margin-top: 17%;
+}
+
+.tabela {
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 1%;
+}
+
+.my-custom-scrollbar {
+  position: relative;
+  height: 350px;
+  overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+  display: block;
+}
+
+.footer {
+  background-color: rgba(0, 0, 0, 0.616);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.tabelaNovoUsuario {
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 5%;
+}
+
+.tabelaEditarUsuario {
+  margin-right: 15%;
+  margin-left: 15%;
+  margin-top: 7%;
+}
