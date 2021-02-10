@@ -11,7 +11,7 @@
  
 </p>
 <h1 align="center">
-    <img alt="Setup Now" title="#NextLevelWeek" src="./assets/banner.png" />
+    <img alt="Setup Now" title="#NextLevelWeek" src="./assets/logo.ico" />
 </h1>
 
 <h4 align="center"> 
