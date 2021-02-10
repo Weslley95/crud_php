@@ -53,7 +53,7 @@
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/bd-setupnow.png" width="700px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/bd-setupnow.svg" width="700px">
 </p>
 
 ---
