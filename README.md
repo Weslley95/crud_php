@@ -6,7 +6,7 @@
   </a>
 
   <a href="http://bd.setupnow.com.br">
-    <img alt="Feito por Setup Now" src="https://img.shields.io/badge/feito%20por-SetupNow-%237519C1">
+    <img alt="Feito por Setup Now" src="https://img.shields.io/badge/Feito%20por-SetupNow-%237519C1">
   </a>
  
 </p>
@@ -53,7 +53,7 @@
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/bd-setupnow.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/bd-setupnow.png" width="700px">
 </p>
 
 ---
