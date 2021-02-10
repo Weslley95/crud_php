@@ -1,5 +1,5 @@
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
+<p align="center"><p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/badge/Languages-4-%2300FF7F%09">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
   
