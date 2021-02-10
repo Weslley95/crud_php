@@ -1,7 +1,5 @@
-<p align="center"><p align="center">
+<p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/badge/Languages-4-%2300FF7F%09">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
   
   <a href="https://github.com/Weslley95/crud_php/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
