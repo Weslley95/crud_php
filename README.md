@@ -110,11 +110,11 @@ $ cd crud_php
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### []**Website**
+#### **Website**
 
 -   **[Bootstrap](https://getbootstrap.com/)**
 
-#### []**Server**
+#### **Server**
 
 -   **[PHP](https://www.php.net/manual/pt_BR/intro-whatis.php)**
 
@@ -139,12 +139,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://setupnow.com.br/portfolio.html#portifolio">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54604241?s=460&u=ba776a23bd6504933937ebfc722ff9023c0abe29&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Weslley</b></sub></a> <a href="https://setupnow.com.br/portfolio.html#portifolio" title="Setup Now">🚀</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslley-bezerra-451576125/)](https://www.linkedin.com/in/weslley-bezerra-451576125/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Weslley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslley-bezerra-451576125/)](https://www.linkedin.com/in/weslley-bezerra-451576125/) 
 [![Gmail Badge](https://img.shields.io/badge/-weslleybezerra95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:weslleybezerra95@gmail.com)](mailto:weslleybezerra95@gmail.com)
 
 ---
